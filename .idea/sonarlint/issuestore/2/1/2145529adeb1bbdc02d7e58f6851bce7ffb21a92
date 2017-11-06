@@ -1,0 +1,6 @@
+
+osquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(Šþ±Äøÿÿÿÿ8—çäîø+
+Wsquid:S1854"<Remove this useless assignment to local variable "dealItem".(§á¾U8ãº‡ïø+
+Hsquid:S1481"-Remove this unused "dealItem" local variable.(§á¾U8«Ì‡ïø+
+^squid:S1854"=Remove this useless assignment to local variable "imageView".(¤‰ô‚üÿÿÿÿ8Ÿúîø+
+Osquid:S1481".Remove this unused "imageView" local variable.(¤‰ô‚üÿÿÿÿ8Üûîø+

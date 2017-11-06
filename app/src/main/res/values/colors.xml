@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <drawable name="actionbar_color">#ffcc0000</drawable>
-    <drawable name="white_color">#ffffffff</drawable>
-    <drawable name="gray_color">#ff666666</drawable>
+    <color name="colorPrimary">#e31837</color>
+    <color name="colorPrimaryDark">#a90011</color>
+    <color name="colorPrimaryLight">#ff5c61</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <color name="light_grey">#878787</color>
+
+    <color name="deal_list_bg">#f2f2f2</color>
+    
+    <color name="add_to_list_button_color">#e0e0e0</color>
+
+    <color name="gray_color">#ff666666</color>
+
 </resources>
