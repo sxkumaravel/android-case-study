@@ -24,8 +24,6 @@ z
 Japp/src/main/java/com/target/dealbrowserpoc/dealbrowser/data/DealsDTO.java,3/1/3116fdd43cbf98ab9bf4f4d66c44090157d05f28
 z
 Japp/src/main/java/com/target/dealbrowserpoc/dealbrowser/data/DealItem.java,c/e/cef56ba04faab532e20eb023493666b8735fbaf4
-}
-Mapp/src/main/java/com/target/dealbrowserpoc/dealbrowser/DealListFragment.java,e/c/ec1af2ad1502b6987236852fe5cfade80f5e2fe7
 Å
 Qapp/src/main/java/com/target/dealbrowserpoc/dealbrowser/DealSelectedListener.java,f/d/fd5096460f2d39f27a0dd5a68cc021fe75fab136
 â
@@ -34,3 +32,11 @@ Yapp/src/main/java/com/target/dealbrowserpoc/dealbrowser/adapters/GridDealListAd
 Uapp/src/main/java/com/target/dealbrowserpoc/dealbrowser/adapters/DealListAdapter.java,7/0/70e57f8989f685e47257af57398b5a5a3cb23240
 Ä
 Papp/src/main/java/com/target/dealbrowserpoc/dealbrowser/DealsDetailActivity.java,2/1/2145529adeb1bbdc02d7e58f6851bce7ffb21a92
+á
+Wapp/src/main/java/com/target/dealbrowserpoc/dealbrowser/fragments/DealListFragment.java,5/3/535a4e3d7ebced934d7d06a68bbfbbfac3c2cd60
+Ö
+Uapp/src/main/java/com/target/dealbrowserpoc/dealbrowser/fragments/DetailFragment.java,5/d/5d3bc7e8c72202e1d0105967cf60afa622688c9a
+7
+gradlew,5/b/5bbfa66edb4db3c7c33c5181f43510990d3307f9
+A
+gradle.properties,2/a/2afbb999f001938c88fa43fc2ef52abf0f8213e4
